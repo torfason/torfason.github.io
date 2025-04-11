@@ -1,4 +1,4 @@
-# My GitHub Pages site
+# My Tiny GitHub Pages site
 
 ## CRAN packages I am maintaining:
 - [The `import` R package](https://import.rticulate.org/)
